@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fouram.top</id>
+    <id>http://fouram.top</id>
     <title>4a.m.</title>
-    <updated>2019-08-20T16:01:41.513Z</updated>
+    <updated>2019-08-20T16:04:40.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fouram.top"/>
-    <link rel="self" href="https://fouram.top/atom.xml"/>
-    <logo>https://fouram.top/images/avatar.png</logo>
-    <icon>https://fouram.top/favicon.ico</icon>
+    <link rel="alternate" href="http://fouram.top"/>
+    <link rel="self" href="http://fouram.top/atom.xml"/>
+    <logo>http://fouram.top/images/avatar.png</logo>
+    <icon>http://fouram.top/favicon.ico</icon>
     <rights>All rights reserved 2019, 4a.m.</rights>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
-        <id>https://fouram.top/post/test</id>
-        <link href="https://fouram.top/post/test">
+        <id>http://fouram.top/post/test</id>
+        <link href="http://fouram.top/post/test">
         </link>
         <updated>2019-08-20T15:43:42.000Z</updated>
         <content type="html"><![CDATA[<p>——</p>
@@ -20,8 +20,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fouram.top/post/hello-gridea</id>
-        <link href="https://fouram.top/post/hello-gridea">
+        <id>http://fouram.top/post/hello-gridea</id>
+        <link href="http://fouram.top/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
