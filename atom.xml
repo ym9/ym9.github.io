@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fouram.top</id>
-    <title>4 a.m.</title>
-    <updated>2019-08-20T16:00:06.523Z</updated>
+    <title>4a.m.</title>
+    <updated>2019-08-20T16:01:41.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fouram.top"/>
     <link rel="self" href="https://fouram.top/atom.xml"/>
     <logo>https://fouram.top/images/avatar.png</logo>
     <icon>https://fouram.top/favicon.ico</icon>
-    <rights>All rights reserved 2019, 4 a.m.</rights>
+    <rights>All rights reserved 2019, 4a.m.</rights>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://fouram.top/post/test</id>
